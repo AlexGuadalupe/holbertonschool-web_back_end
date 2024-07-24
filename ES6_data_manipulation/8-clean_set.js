@@ -10,5 +10,5 @@ export default function cleanSet(set, startString) {
       str.push(element.slice(startString.length));
     }
   }
- 	return str.join('-');
+  return str.join('-');
 }
