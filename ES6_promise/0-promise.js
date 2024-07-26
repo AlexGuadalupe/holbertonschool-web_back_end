@@ -10,4 +10,3 @@ export default function getResponseFromApi(success = true) {
     }
   });
 }
-
